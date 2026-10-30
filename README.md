@@ -2,6 +2,8 @@
 
 **`Software Engineer`**
 
+🌐 **Portfólio:** [dutrathiagodev.com.br](https://dutrathiagodev.com.br)
+
 Desenvolvedor Backend e Flutter, atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento de software e gosto de atuar em ambientes dinâmicos, onde posso aprender, evoluir e enfrentar novos desafios. Tenho o compromisso de buscar constantemente crescimento profissional, explorando novas tecnologias e metodologias por meio de cursos, literatura e networking. Atualmente, trabalho na FTeam, referência em desenvolvimento Flutter no Brasil, onde tenho a oportunidade de aprimorar minhas habilidades e contribuir para projetos reais.
 
 --- 
